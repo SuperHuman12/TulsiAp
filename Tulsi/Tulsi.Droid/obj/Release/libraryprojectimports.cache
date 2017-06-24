@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>D:\Desktop\TulsiApp-a8432c204b3dbe38680fcd06dfb4c8cc29a93fa8\Tulsi\Tulsi.Droid\obj\Release\__library_projects__\SlideOverKit.Droid\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\Desktop\TulsiApp-a8432c204b3dbe38680fcd06dfb4c8cc29a93fa8\Tulsi\Tulsi.Droid\obj\Release\__library_projects__\Syncfusion.Calculate.Android\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\Desktop\TulsiApp-a8432c204b3dbe38680fcd06dfb4c8cc29a93fa8\Tulsi\Tulsi.Droid\obj\Release\__library_projects__\Syncfusion.SfChart.Android\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\Desktop\TulsiApp-a8432c204b3dbe38680fcd06dfb4c8cc29a93fa8\Tulsi\Tulsi.Droid\obj\Release\__library_projects__\Syncfusion.SfListView.XForms.Android\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\Desktop\TulsiApp-a8432c204b3dbe38680fcd06dfb4c8cc29a93fa8\Tulsi\Tulsi.Droid\obj\Release\__library_projects__\Xamarin.Android.Support.Design\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\Desktop\TulsiApp-a8432c204b3dbe38680fcd06dfb4c8cc29a93fa8\Tulsi\Tulsi.Droid\obj\Release\__library_projects__\Xamarin.Android.Support.Transition\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\Desktop\TulsiApp-a8432c204b3dbe38680fcd06dfb4c8cc29a93fa8\Tulsi\Tulsi.Droid\obj\Release\__library_projects__\Xamarin.Android.Support.v7.AppCompat\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\Desktop\TulsiApp-a8432c204b3dbe38680fcd06dfb4c8cc29a93fa8\Tulsi\Tulsi.Droid\obj\Release\__library_projects__\Xamarin.Android.Support.v7.CardView\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\Desktop\TulsiApp-a8432c204b3dbe38680fcd06dfb4c8cc29a93fa8\Tulsi\Tulsi.Droid\obj\Release\__library_projects__\Xamarin.Android.Support.v7.MediaRouter\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\Desktop\TulsiApp-a8432c204b3dbe38680fcd06dfb4c8cc29a93fa8\Tulsi\Tulsi.Droid\obj\Release\__library_projects__\Xamarin.Android.Support.v7.RecyclerView\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\Desktop\TulsiApp-a8432c204b3dbe38680fcd06dfb4c8cc29a93fa8\Tulsi\Tulsi.Droid\obj\Release\__library_projects__\Xamarin.Forms.Platform.Android\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\Desktop\TulsiApp-a8432c204b3dbe38680fcd06dfb4c8cc29a93fa8\Tulsi\Tulsi.Droid\obj\Release\__library_projects__\Xamarin.Forms.Platform\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\Desktop\TulsiApp-a8432c204b3dbe38680fcd06dfb4c8cc29a93fa8\Tulsi\Tulsi.Droid\obj\Release\__library_projects__\XamForms.Controls.Calendar.Droid\library_project_imports\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>obj\Release\__library_projects__\SlideOverKit.Droid\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Release\__library_projects__\Syncfusion.Calculate.Android\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Release\__library_projects__\Syncfusion.SfListView.XForms.Android\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Release\__library_projects__\Xamarin.Forms.Platform.Android\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Release\__library_projects__\Xamarin.Forms.Platform\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Release\__library_projects__\XamForms.Controls.Calendar.Droid\library_project_imports\assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>D:\Desktop\TulsiApp-a8432c204b3dbe38680fcd06dfb4c8cc29a93fa8\Tulsi\Tulsi.Droid\obj\Release\__library_projects__\SlideOverKit.Droid.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\Desktop\TulsiApp-a8432c204b3dbe38680fcd06dfb4c8cc29a93fa8\Tulsi\Tulsi.Droid\obj\Release\__library_projects__\Syncfusion.Calculate.Android.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\Desktop\TulsiApp-a8432c204b3dbe38680fcd06dfb4c8cc29a93fa8\Tulsi\Tulsi.Droid\obj\Release\__library_projects__\Syncfusion.SfChart.Android.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\Desktop\TulsiApp-a8432c204b3dbe38680fcd06dfb4c8cc29a93fa8\Tulsi\Tulsi.Droid\obj\Release\__library_projects__\Syncfusion.SfListView.XForms.Android.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\Desktop\TulsiApp-a8432c204b3dbe38680fcd06dfb4c8cc29a93fa8\Tulsi\Tulsi.Droid\obj\Release\__library_projects__\Xamarin.Android.Support.Design.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\Desktop\TulsiApp-a8432c204b3dbe38680fcd06dfb4c8cc29a93fa8\Tulsi\Tulsi.Droid\obj\Release\__library_projects__\Xamarin.Android.Support.Transition.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\Desktop\TulsiApp-a8432c204b3dbe38680fcd06dfb4c8cc29a93fa8\Tulsi\Tulsi.Droid\obj\Release\__library_projects__\Xamarin.Android.Support.v7.AppCompat.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\Desktop\TulsiApp-a8432c204b3dbe38680fcd06dfb4c8cc29a93fa8\Tulsi\Tulsi.Droid\obj\Release\__library_projects__\Xamarin.Android.Support.v7.CardView.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\Desktop\TulsiApp-a8432c204b3dbe38680fcd06dfb4c8cc29a93fa8\Tulsi\Tulsi.Droid\obj\Release\__library_projects__\Xamarin.Android.Support.v7.MediaRouter.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\Desktop\TulsiApp-a8432c204b3dbe38680fcd06dfb4c8cc29a93fa8\Tulsi\Tulsi.Droid\obj\Release\__library_projects__\Xamarin.Android.Support.v7.RecyclerView.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\Desktop\TulsiApp-a8432c204b3dbe38680fcd06dfb4c8cc29a93fa8\Tulsi\Tulsi.Droid\obj\Release\__library_projects__\Xamarin.Forms.Platform.Android.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\Desktop\TulsiApp-a8432c204b3dbe38680fcd06dfb4c8cc29a93fa8\Tulsi\Tulsi.Droid\obj\Release\__library_projects__\Xamarin.Forms.Platform.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\Desktop\TulsiApp-a8432c204b3dbe38680fcd06dfb4c8cc29a93fa8\Tulsi\Tulsi.Droid\obj\Release\__library_projects__\XamForms.Controls.Calendar.Droid.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>
